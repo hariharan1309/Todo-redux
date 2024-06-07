@@ -11,7 +11,7 @@ A simple Todo App built with React and Redux for managing tasks. You can add, to
 
 1. **Clone the repository:**
 
-    git clone https://github.com/your-username/todo-app.git
+    git clone  https://github.com/hariharan1309/Todo-redux.git
 
     cd todo-app
 
